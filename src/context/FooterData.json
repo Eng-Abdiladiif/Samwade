@@ -1,0 +1,26 @@
+[
+
+
+    {
+
+        "id":1,
+        "info": "Samwade Digital services",
+        "Email": "cabdiladifsaalx@gamil.com",
+        "Tell":"0634991174"
+    },
+    {
+
+        "id":2,
+        "Name":"web-deverlpent",
+        "title": "graphic design",
+        "skill": "Branding"
+    },
+
+    {
+
+        "id":3,
+        "city":"Erigavo",
+        "area": "manhal",
+        "Home": "Home_dev"
+    }
+]
